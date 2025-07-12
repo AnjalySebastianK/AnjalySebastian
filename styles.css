@@ -242,7 +242,7 @@ nav .right a span{
 @media (max-width:740px){
     /*section 1:about me*/
     .about-me{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .about-me .headshot img{
         width: 300px;
@@ -251,12 +251,7 @@ nav .right a span{
     .contact-sec .group{
         flex-direction: column;
     }
-    
-
-
 }
-
-
 @media (max-width:664px){
     /* Nav*/
     nav{
