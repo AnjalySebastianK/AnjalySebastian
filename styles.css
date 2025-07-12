@@ -242,7 +242,7 @@ nav .right a span{
 @media (max-width:740px){
     /*section 1:about me*/
     .about-me{
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
     .about-me .headshot img{
         width: 300px;
